@@ -1,4 +1,4 @@
 this is a featurefile
 this is a conflict line in feature branch
-
-
+.......this is a new line in feature branch in local repo
+this is a conflict line in main branch in local repo
